@@ -1,0 +1,9 @@
+.price {
+  font-weight: bold;
+  color: red;
+}
+​
+.fruitbox {
+  border: 1px solid #ccc;
+  padding-bottom: 20px;
+}
