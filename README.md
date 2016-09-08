@@ -1,6 +1,7 @@
 # Prime Group jQuery Challenge
-jQuery is great! It allows us to do so many things! You and your group will need to flex everything you know about 
-Javascript, jQuery, and CSS to tackle this challenge. 
+Used Javascript, jQuery, and CSS to tackle this challenge. 
+
+My portion of this incomplete assignment was to create the code which generates a random price for each fruit within the constraints, and then randomly increases or decreases that price at 15-second intervals, within the given constraints.
 
 ## The Fruit Market
 For this challenge, you will be working with 4 commodities; 
